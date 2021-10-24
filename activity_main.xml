@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/GridLayout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="4"
+    android:rowCount="3"
+    android:orientation="horizontal"
+    tools:context=".GridLayoutActivity">
+
+    <TextView
+        android:id="@+id/text1"
+        android:text="A"
+        android:layout_gravity="left|top"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:gravity="center" />
+        
+    <TextView
+        android:id="@+id/text1"
+        android:text="B"
+        android:layout_gravity="left|top"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/text1"
+        android:text="C"
+        android:layout_gravity="left|top"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/text1"
+        android:text="D"
+        android:layout_gravity="left|top"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/text1"
+        android:text="E"
+        android:layout_gravity="left|top"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/text1"
+        android:text="F"
+        android:layout_gravity="left|top"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/text1"
+        android:text="G"
+        android:layout_gravity="left|top"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/text1"
+        android:text="H"
+        android:layout_gravity="left|top"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/text1"
+        android:text="I"
+        android:layout_gravity="left|top"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/text1"
+        android:text="J"
+        android:layout_gravity="left|top"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/text1"
+        android:text="K"
+        android:layout_gravity="left|top"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/text1"
+        android:text="L"
+        android:layout_gravity="left|top"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:gravity="center" />
+
+
+</GridLayout>
+
